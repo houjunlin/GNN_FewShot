@@ -1,3 +1,3 @@
 # GNN_FewShot
 
-Based on Few-Shot Learning with Graph Neural Network
+Garcia V , Bruna J . Few-Shot Learning with Graph Neural Networks[J]. ICLR2017.
